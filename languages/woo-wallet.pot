@@ -17,65 +17,65 @@ msgstr ""
 #: includes/admin/class-woo-wallet-transaction-details.php:20
 #: templates/wc-endpoint-wallet-transactions.php:26
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: includes/admin/class-woo-wallet-balance-details.php:21
 msgid "Username"
-msgstr ""
+msgstr "使用者名稱"
 
 #: includes/admin/class-woo-wallet-balance-details.php:22
 #: includes/admin/class-woo-wallet-transaction-details.php:21
 msgid "Name"
-msgstr ""
+msgstr "名稱"
 
 #: includes/admin/class-woo-wallet-balance-details.php:23
 msgid "Email"
-msgstr ""
+msgstr "電子信箱"
 
 #: includes/admin/class-woo-wallet-balance-details.php:24
 msgid "Remaining balance"
-msgstr ""
+msgstr "帳戶餘額"
 
 #: includes/admin/class-woo-wallet-balance-details.php:25
 msgid "Actions"
-msgstr ""
+msgstr "操作"
 
 #: includes/admin/class-woo-wallet-transaction-details.php:22
 #: includes/class-woo-wallet-admin.php:152
 msgid "Type"
-msgstr ""
+msgstr "種類"
 
 #: includes/admin/class-woo-wallet-transaction-details.php:23
 #: includes/class-woo-wallet-admin.php:145 templates/wc-endpoint-wallet.php:67
 msgid "Amount"
-msgstr ""
+msgstr "金額"
 
 #: includes/admin/class-woo-wallet-transaction-details.php:24
 #: templates/wc-endpoint-wallet-transactions.php:29
 msgid "Details"
-msgstr ""
+msgstr "詳細"
 
 #: includes/admin/class-woo-wallet-transaction-details.php:25
 #: templates/wc-endpoint-wallet-transactions.php:30
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 #: includes/admin/class-woo-wallet-transaction-details.php:86
 #: includes/class-woo-wallet-admin.php:155
 #: templates/wc-endpoint-wallet-transactions.php:27
 msgid "Credit"
-msgstr ""
+msgstr "信用"
 
 #: includes/admin/class-woo-wallet-transaction-details.php:86
 #: includes/class-woo-wallet-admin.php:156
 #: templates/wc-endpoint-wallet-transactions.php:28
 msgid "Debit"
-msgstr ""
+msgstr "金融"
 
 #: includes/api/class-woo-wallet-rest-controller.php:32
 #: includes/api/class-woo-wallet-rest-controller.php:56
 msgid "Unique identifier for the resource."
-msgstr ""
+msgstr "此資源唯一的標示"
 
 #: includes/class-woo-wallet-admin.php:57
 msgid "WooWallet"
